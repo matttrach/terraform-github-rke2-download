@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/matttrach/terraform-github-rke2-download/compare/v1.0.1...v1.0.2) (2026-06-23)
+
+
+### Bug Fixes
+
+* Repository Update & Standardization ([#23](https://github.com/matttrach/terraform-github-rke2-download/issues/23)) ([3fcaf38](https://github.com/matttrach/terraform-github-rke2-download/commit/3fcaf3838f2cbd6ef9b725f74905ffbb9f67e8fe))
+
 ## [1.0.1](https://github.com/rancher/terraform-github-rke2-download/compare/v1.0.0...v1.0.1) (2026-04-15)
 
 
